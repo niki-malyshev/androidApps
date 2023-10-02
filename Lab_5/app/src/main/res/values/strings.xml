@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab_5</string>
+    <string name="date_button">Вывод даты</string>
+</resources>

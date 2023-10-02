@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab_1</string>
+    <string name="button_1">Кнопка 1</string>
+    <string name="button_4">Кнопка 4</string>
+    <string name="button_2">Кнопка 2</string>
+    <string name="button_3">Кнопка 3</string>
+    <string name="textview">Вы нажали на все кнопки!</string>
+    <string name="background">TODO</string>
+    <string name="button_res">Заново</string>
+</resources>
